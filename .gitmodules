@@ -1,0 +1,3 @@
+[submodule "CSharpProjects"]
+	path = CSharpProjects
+	url = git@github.com:nazeru/CSharpProjects.git
